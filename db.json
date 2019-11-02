@@ -1,0 +1,27 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is great Stream.",
+      "id": 1
+    },
+    {
+      "title": "squraishi",
+      "description": "squraishi8846@gmail.com",
+      "userId": "110116798593567958173",
+      "id": 2
+    },
+    {
+      "title": "nriit",
+      "description": "nriittech@gmail.com",
+      "userId": "101630286209944074742",
+      "id": 3
+    },
+    {
+      "title": "this",
+      "description": "nckflclcz",
+      "userId": "115071295422438520051",
+      "id": 4
+    }
+  ]
+}
